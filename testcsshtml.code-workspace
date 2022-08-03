@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\testcsshtml"
+		},
+		{
+			"path": "..\\portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ma calculatrice"
+	}
+}
